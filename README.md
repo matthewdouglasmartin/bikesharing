@@ -7,19 +7,19 @@ The data provided by CitiBike regarding the usage of its services during August 
 
 ### NYC CitiBike Peak Bike Use:
 
-![NYC CitiBike Peak Bike Use]()
+![NYC CitiBike Peak Bike Use](https://github.com/matthewdouglasmartin/bikesharing/blob/main/Resources/NYC%20CitiBike%20Peak%20Bike%20Use.png)
 
 Within this dashboard four different visualizations are compiled in an effort to more easily see the peak times of use and how long the bikes are used.  The visualizations include: total number of trips, checkout times for users, trips by weekday per hour and the August peak hours.  There are clear spikes in usage on weekdays (Monday through Friday) for hours before and after work shifts.  In addition, it can be seen that on the weekends bikes are used quite evenly throughout the midday, most likely for casual errands or leisurely activites.  The two story points beyond this first dashboard are single visualzations showing the checkout times for users and the trips by weekday per hour, providing a more enhanced and detailed view of this data for further investigation.    
 
 ### NYC CitiBike Use by Gender:
 
-![NYC CitiBike Use by Gender]()
+![NYC CitiBike Use by Gender](https://github.com/matthewdouglasmartin/bikesharing/blob/main/Resources/NYC%20CitiBike%20Bike%20Use%20by%20Gender.png)
 
 Gender is the primary focus for the next dashboard, drilling down further in detail how bikes are used between customers that identify as  female, male, or unknown.  Visualizations were created to show in greater detail the relationship between gender and bike usage.  There are almost one million more male customers than female customers.  In addition, the bulk of the weekday usage before and after work shifts consist of male customers.  
 
 ### NYC CitiBike by Customer Type:
 
-![NYC CitiBike by Customer Type]()
+![NYC CitiBike by Customer Type](https://github.com/matthewdouglasmartin/bikesharing/blob/main/Resources/NYC%20CitiBike%20by%20Customer%20Type.png)
 
 A further detail provided within the data is that there are two types of users, customers and subscribers.   When looking at the customer type visualization, about two million of CitiBike's users are classified as subscribers.  Taking that one step further, the majority of CitiBike's subscribers identify as male.  Using Monday's as an example, there are 179,245 more subscribers utlizing CitiBike's services compared to customers, the majority of use landing before and after work shifts.       
 
